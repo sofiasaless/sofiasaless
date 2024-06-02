@@ -1,32 +1,37 @@
-# Hey there! 👋
-
-- 📚 I'm a computer science student from the **Federal University of Ceará**.
-- 🎯 I’m currently studying **Spring Boot, API's and Databases.**
+<h1 align="center">Hey There! 👋</h1>
 
 ###
 
-# *Stats*
+<p align="center">- 📚 I'm a computer science student from the <strong>Federal University of Ceará</strong>.<br>- 🎯 I’m currently studying <strong>APIs, Databases and Front-End Skills.</strong></p>
+
+###
+
+<h2 align="center">Streak and Skills</h2>
+
+###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sofiasaless&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=sofiasaless&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="215" alt="streak graph"  />
 </div>
 
 ###
 
-# *Coding with...*
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="43" alt="cplusplus logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=c" height="43" alt="c logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=java" height="43" alt="java logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=spring" height="43" alt="spring logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=html" height="43" alt="html5 logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=js" height="43" alt="javascript logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=css" height="43" alt="css3 logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="43" alt="mysql logo"  />
 </div>
+
+###
