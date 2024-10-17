@@ -1,8 +1,8 @@
-<h1 align="center">Hey There! 👋</h1>
+<h1 align="center">Hey there! 👋</h1>
 
 ###
 
-<p align="center">- 📚 I'm a computer science student from the <strong>Federal University of Ceará</strong>.<br>- 🎯 I’m currently studying <strong>API Rest, Databases, Front-End Skills and Microservices Architecture</strong></p>
+<p align="center">- 📚 I'm a computer science student from the <strong>Federal University of Ceará</strong>.<br>- 🎯 I’m currently studying <strong> Rest APIs, Databases, Full Stack Tools and Mobile Development.</strong></p>
 
 ###
 
@@ -25,11 +25,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="43" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="43" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="43" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="43" alt="sqlite logo"  />
 </div>
-
-###
